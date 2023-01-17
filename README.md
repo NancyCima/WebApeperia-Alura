@@ -14,7 +14,7 @@ Posteriormente, se siguio trabajando sobre la pagina hasta llegar a lo pedido y,
 
 ### Contenido
 En este repositorio encontrara:
-  - "Un archivo HTML llamado "index.html" que contiene la estructura de la página."
+  - "Un archivo HTML llamado "index.html" que contiene la estructura de la página"
   - "Una carpeta "css" que incluye un conjunto de hojas de estilo CSS correspondientes al diseño de la página."
   - "Una carpeta "img" con las imagenes e iconos usados en la página."
   - "Un archivo colores.txt que tiene una guia de los los colores a utilizar y un archivo textos.txt que contiene los copys para la pagina"
